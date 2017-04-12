@@ -48,3 +48,7 @@ Finally, enter `http://kapacitor:9092` as the URL and click `Connect Kapacitor`:
 ![Kapacitor Configuration](./documentation/static/images/configure-kapacitor.png)
 
 Then you are ready to get started with the TICK Stack!
+
+### Upgrading
+
+When new versions of the TICK Stack come out you can upgrade by `git pull`ing this repo and restarting the sandbox: `./sandbox up`
